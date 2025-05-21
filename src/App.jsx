@@ -3,7 +3,7 @@ import Home from './componenets/Home'
 
 
 import { Routes, Route } from 'react-router-dom';
-import Maps from './componenets/maps';
+import Maps from './componenets/Maps';
 // import Analytics from './component/Analytics';
 
 function App() {
