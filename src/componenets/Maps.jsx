@@ -9,10 +9,10 @@ function Maps() {
   const navigate = useNavigate();
 
   const mapSources = [
-    { title: "📍 Map 1:", src: "AI.png", type: "image" },
-    { title: "📍 Map 2:", src: "lst.png", type: "image" },
-    { title: "📍 Map 3:", src: "A.png", type: "image" },
-    { title: "📍 Map 4:", src: "k.png", type: "image" },
+    { title: "📍Overall Homeless - American Indian, Alaska Native, or Indigenous", src: "AI.png", type: "image" },
+    { title: "📍Percent of homeless population: Overall Homeless - Non-Hispanic/Latina/e/o", src: "lst.png", type: "image" },
+    { title: "📍Overall Homeless - Asian or Asian American", src: "A.png", type: "image" },
+    { title: "📍 Percent of homeless population: Overall Homeless - White", src: "k.png", type: "image" },
     
   ];
 
